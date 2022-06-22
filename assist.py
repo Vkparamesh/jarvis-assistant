@@ -20,7 +20,7 @@ class Ui_Ruby(object):
         self.ani1.setGeometry(QtCore.QRect(180, 120, 131, 101))
         self.ani1.setStyleSheet("mix-blend-mode: lighten")
         self.ani1.setText("")
-        self.ani1.setPixmap(QtGui.QPixmap("image_processing20210913-12239-1ov2meu.gif"))
+        self.ani1.setPixmap(QtGui.QPixmap("image_processing20210913-12239-1ov2meu.gif"))# remove this image and add your img name in same folder
         self.ani1.setScaledContents(True)
         self.ani1.setWordWrap(False)
         self.ani1.setObjectName("ani1")
