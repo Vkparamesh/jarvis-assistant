@@ -28,7 +28,4 @@ python
 If you have any feedback, please reach out to us at parameshvk3232@gmail.com
 
 
-## Demo
-
-https://vkparamesh.github.io/Task-management/
 
